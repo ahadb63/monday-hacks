@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/eva.jpg" media="(min-width: 600px)">
+              <img src="images/eva.jpg" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">Ahads's Coding Profile</p>
+                <h1>Ahad Biabani</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                My name is Ahad Biabani I am in Period 4 Mort CSP
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/ahadb63/monday-hacks/" class="button"></a>
             </div>
           </article>
         </main>

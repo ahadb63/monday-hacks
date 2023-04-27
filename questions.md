@@ -69,6 +69,8 @@ In the snake game code provided, the :root selector is used to define several CS
 By using CSS variables, the game can be easily customized by changing the values of these variables in the :root selector. For example, if you want to make the game grid larger, you can simply change the value of --grid-size in the :root selector, and all the elements that use that variable will be updated accordingly. This makes it much easier to customize the game's appearance and behavior without having to go through and modify each individual CSS rule.</p>
 <h2>3. Write 2-3 sentences about how the use of HTML, JavaScript, and CSS creates the final product.</h2>
 <p>The combination of HTML, JavaScript, and CSS is essential in creating dynamic and interactive web-based applications like the Snake Game. HTML provides the structure and content of the game, JavaScript adds the interactivity and logic to the game, while CSS controls the presentation and visual styling of the game. Together, these three technologies work seamlessly to create a cohesive and engaging user experience.</p>
+<h3> How can I use this info in my final project?</h3>
+<p>CSS and UI can be used to attract more users to our webstie and bring more traffic.</p>
 
 
 </div>
