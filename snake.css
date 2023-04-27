@@ -10,7 +10,7 @@ body {
   background-attachment: fixed;
 }
 canvas {
-  background: rgb(10, 143, 205);
+  background: rgb(3, 164, 239);
   text-align:center;
   padding-left: 0;
   padding-right: 0;
@@ -22,7 +22,7 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: rgb(123, 226, 33);
+  --apple: rgb(10, 126, 33);
   --snake: rgb(251, 11, 23);
 }
 #p1 {
